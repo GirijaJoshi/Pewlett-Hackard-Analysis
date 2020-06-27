@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 # Module 7 challenge
-### Module 7 challange queries are store in file: [module7_quries](Data/module_7_challenge.sql)
+### Module 7 challange queries are store in file: [module7_quries](Queries/module_7_challenge.sql)
 ### ERD diagram with original tables
 ![erd](Orig_Table_ERD.png)
 ### Original table schema is store in file "Queries/table_schema.sql"
